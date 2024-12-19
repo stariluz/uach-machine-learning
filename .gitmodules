@@ -1,0 +1,3 @@
+[submodule "uach-ml-project"]
+	path = uach-ml-project
+	url = https://github.com/stariluz/uach-ml-project
